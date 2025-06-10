@@ -1,0 +1,1 @@
+export { useSharedState } from '@/services/state/SharedStateManager';
