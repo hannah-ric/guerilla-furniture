@@ -15,8 +15,8 @@ AI-powered furniture design application that transforms natural language descrip
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blueprint-buddy.git
-cd blueprint-buddy
+git clone https://github.com/hannah-ric/guerilla-furniture.git
+cd guerilla-furniture
 
 # Install dependencies
 npm install
